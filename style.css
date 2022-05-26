@@ -1,0 +1,52 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.topheader {
+    background: #F8F8FF !important;
+    color: #000 !important;
+    height: 35px;
+
+}
+
+.middle {
+    background: #FFFFFF;
+    color: #000;
+    height: 75px;
+
+}
+
+.top {
+    background: #0000CD;
+    color: #000;
+}
+
+.akijfloat {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.akijfloat img {
+    width: 21px;
+    margin-top: 3px;
+}
+
+.follow span {
+    font-size: 12px;
+}
+
+.akijfloat span {
+    font-size: 10px;
+}
+
+.follow a {
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.follow {
+    margin-top: 3px;
+}
